@@ -1,11 +1,16 @@
 # AZ-CLI-Uploader
 A bash-based CLI tool that allows users to quickly upload files to a specified cloud storage solution
-
+- adding AI to scan and categorize documents and file them by contents.
 ## First Steps
-- Update Azure ClI
+- Update Azure CLI
 - az login
-- Touch "script.file"
-- nano "script.file"
+- Touch "script. file"
+- nano "script. file"
+
+- file parsing Lesson 
+(  )
+
+
 - insert "
 #!/bin/bash
 
